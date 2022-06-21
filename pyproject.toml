@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "scrapper-template"
+name = "scraper-template"
 version = "0.1.0"
 description = ""
 authors = ["Mikedreyeu <mikedreyeu@gmail.com>"]
